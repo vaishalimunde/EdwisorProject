@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng2-toastr": "^4.1.2",
     "ng6-toastr-notifications": "^1.0.4",
     "ngrx": "^2.0.1",
